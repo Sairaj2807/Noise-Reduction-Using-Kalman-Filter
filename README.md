@@ -88,6 +88,8 @@ xlabel('Time Step');
 ylabel('Signal Value');
 
 ```
+### Graphical Output 
+https://github.com/Sairaj2807/Noise-Reduction-Using-Kalman-Filter/assets/116910851/bd23ccc7-5372-49de-b6ce-102061b28132
 
 ### Error you may Face 
 1.Avoid using online matlab.
