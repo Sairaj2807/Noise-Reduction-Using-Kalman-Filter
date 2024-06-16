@@ -88,10 +88,14 @@ xlabel('Time Step');
 ylabel('Signal Value');
 
 ```
-### Graphical Output 
-https://github.com/Sairaj2807/Noise-Reduction-Using-Kalman-Filter/assets/116910851/bd23ccc7-5372-49de-b6ce-102061b28132
 
-### Error you may Face 
+### Graphical Output 
+![SAVE_20240616_232141](https://github.com/Sairaj2807/Noise-Reduction-Using-Kalman-Filter/assets/116910851/8ac64269-53f5-414c-9f17-a339a90d4435)
+
+
+
+
+### Errors you may Face 
 1.Avoid using online matlab.
 
 2.make sure you allow permission for microphone(matlab).
