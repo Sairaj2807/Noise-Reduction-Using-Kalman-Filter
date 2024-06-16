@@ -93,6 +93,8 @@ ylabel('Signal Value');
 ![SAVE_20240616_232141](https://github.com/Sairaj2807/Noise-Reduction-Using-Kalman-Filter/assets/116910851/8ac64269-53f5-414c-9f17-a339a90d4435)
 
 
+![SAVE_20240616_232151](https://github.com/Sairaj2807/Noise-Reduction-Using-Kalman-Filter/assets/116910851/56d23178-9723-4825-a6f0-ab5425592fe4)
+
 
 
 ### Errors you may Face 
