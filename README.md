@@ -86,7 +86,14 @@ legend('True Signal', 'Noisy Measurements', 'Kalman Filter Output');
 title('Kalman Filter Noise Reduction');
 xlabel('Time Step');
 ylabel('Signal Value');
+
 ```
+
+# Error you may Face 
+1.Avoid using online matlab.
+2.make sure you allow permission for microphone(matlab).
+3.After noise reduction if you face low voice output you can use amplification factor .
+
 
 ### Conclusion
 
